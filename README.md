@@ -17,4 +17,4 @@
 * Does it exist a relay system that is acceptable ?
 * Does an usual 5V - 120V relay can do the job or there might be loss of Data?
 * Can we plug a Hub in the relay on the Input side and supply it with its own power ?
-*  
+  
